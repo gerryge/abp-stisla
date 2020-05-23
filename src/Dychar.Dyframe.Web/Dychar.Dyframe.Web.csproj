@@ -41,6 +41,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\theme\Dychar.Abp.AspNetCore.Mvc.UI.Theme.Stisla\Dychar.Abp.AspNetCore.Mvc.UI.Theme.Stisla.csproj" />
     <ProjectReference Include="..\Dychar.Dyframe.Application\Dychar.Dyframe.Application.csproj" />
     <ProjectReference Include="..\Dychar.Dyframe.HttpApi\Dychar.Dyframe.HttpApi.csproj" />
     <ProjectReference Include="..\Dychar.Dyframe.EntityFrameworkCore.DbMigrations\Dychar.Dyframe.EntityFrameworkCore.DbMigrations.csproj" />
